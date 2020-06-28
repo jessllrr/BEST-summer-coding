@@ -1,1 +1,2 @@
-# This is where you will upload (or in GitHub, "commit") your Week One assignments. Remember, this is all just so you can get familiar with GitHub!
+# Uploading a File:
+To upload a file, go the desired location (in this case, the "Week1" folder) and hit upload file.
