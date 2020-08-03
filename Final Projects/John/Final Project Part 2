@@ -1,0 +1,12 @@
+# Add your Python code here. E.g.
+from microbit import *
+
+
+import music
+heartSoul = ["C4:4", "C4:4", "C4:4", "R" "C4:2", "B4:2", "A4:2", "B4:2",
+"C4:2", "D4:2", "E4:4", "E4:4", "E4:4", "E4:2", "D4:2",
+"C4:2", "D4:2", "E4:2", "F4:2", "G4:8", "C4:4", "A5:3",
+"G4:2", "F4:2", "E4:2", "D4:2", "C4:1", "C4:2", "D4:2","E4:2","F4:2",
+"G4:2", "A4:5", "G4:4"]
+
+music.play(heartSoul)
