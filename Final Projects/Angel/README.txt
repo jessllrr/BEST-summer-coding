@@ -1,1 +1,1 @@
-
+I wanted to recreate a simple Mario game. I wanted to have the user press one of two buttons, with one button making a dot jump, and the other button making the dot run forward. When the dot jumps, the speaker makes a noise. It is so cool!
