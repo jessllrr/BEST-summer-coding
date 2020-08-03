@@ -1,1 +1,1 @@
-
+#Hello! I created a random password generator. This is a void function that takes in your desired number of characters for your password and prints out a combination of capital/lowercase letters and numbers. 
