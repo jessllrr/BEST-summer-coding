@@ -1,0 +1,8 @@
+# Add your Python code here. E.g.
+from microbit import *
+
+
+import music
+tune = ["C5:8", "B4:6", "E4:3", "A4:3", "A4:3", "F4:14", "E4:5"]
+
+music.play(tune)
