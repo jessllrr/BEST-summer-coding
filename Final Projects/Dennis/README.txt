@@ -1,1 +1,1 @@
-
+I chose for my final project the figuring out of the speaker. This follows the same procedure of building a circuit, but the only difference is that one has to instead connect two cords (male to female) into where the LED should go on the breadboard. These two cords are then attached to the speaker. Also, the alligator clip that is connected in the positive side of the breadboard goes into the 0 volts of the microbit. After this, one just has to connect the microbit into the computer and run the music code from https://python.microbit.org/v/2.0.
